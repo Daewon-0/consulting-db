@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "consulting-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "be6b99ea-1fc6-442c-a2aa-06d900e80bce",
+			"database_name": "consulting-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
